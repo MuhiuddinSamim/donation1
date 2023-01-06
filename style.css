@@ -28,21 +28,20 @@
 
 }
 .btn-primary{
-    color:aliceblue:aliceblue;
+    color: aliceblue;
     margin-top: 100px;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 55px;
     padding: 10px 15px;
     border-radius: 7px;
-    background-color: rgba(246, 234, 13, 0.944);
+    background-color: rgba(231, 62, 15, 0.788);
 }
 
 /* section style */
 
 .donate{
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin: 100px 150px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,7 +49,6 @@
 }
 
 .donate-today{
-    margin-top: ;
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -149,9 +147,50 @@
 
 .section{
     margin: 100px 150px;
-    ga
 }
 .container{
     display: flex;
-    gap:30px;
+    gap:100px;
+}
+/* last */
+
+
+
+#one{
+    font-size: 50px;
+    font-size: 800;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#one1{
+    font-size: 20px;
+    text-align: center;
+}
+
+.update-container{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: 30px auto;
+    padding: 50px 100px; background: rgba(238, 254, 21, 0.489);
+    border-radius: 5px;
+
+
+
+}
+.email{
+    background: rgba(224, 220, 220, 0.923);
+    padding: 20px 40px;
+    border: none;
+   border-radius: 5px;
+
+}
+
+.update-btn{
+    background: rgba(162, 46, 46, 0.759);
+    padding: 20px 30px;
+    border: none;
+   border-radius: 5px;
+
+
 }
