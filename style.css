@@ -42,6 +42,7 @@
 
 .donate{
     margin-top: 100px;
+    margin-bottom: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -57,8 +58,9 @@
 }
 
 .donate-des{
-    font-size: 0px;
+    font-size: 20px;
     font-weight: 300;
+    margin-bottom: 30px;
 }
 
 .donate-title{
@@ -82,4 +84,74 @@
     padding: 5px 10px;
     background-color: rgb(200, 171, 171);
 
+}
+/* donate plan */
+
+.donate-plan{ 
+    margin: 200px 150px 100px;
+}
+
+
+.donate-title1{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+.donate-des1{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+.plan{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.full-plan1{
+    background: rgba(84, 241, 246, 0.53);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+
+}
+
+.full-plan2{
+    background: rgba(243, 84, 140, 0.518);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.full-plan3{
+    background: rgba(147, 232, 43, 0.401);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.i{
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+.d-head{
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+
+}
+/* janina */
+
+.section{
+    margin: 100px 150px;
+    ga
+}
+.container{
+    display: flex;
+    gap:30px;
 }
