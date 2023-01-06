@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.banner{
+    background-image: url(images/donation7.jpg);
+    background-size: cover;
+    height: 650px;
+    align-items: center;justify-content: center;
+    display: flex; align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.banner-title{
+    font-size: 65px;
+    color: rgba(11, 248, 145, 0.971);
+
+}
+
+
+.banner-des{
+    margin-top: 40px;
+    font-size: 20px;
+    color: rgb(230, 242, 243);
+    font-weight: 400;
+
+}
+.btn-primary{
+    color:aliceblue:aliceblue
+    margin-top: 100px;
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 55px;
+    padding: 10px 15px;
+    border-radius: 7px;
+    background-color: rgba(246, 234, 13, 0.944);
+}
+
+/* section style */
+
+.donate{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.donate-today{
+    margin-top: ;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.donate-des{
+    font-size: 0px;
+    font-weight: 300;
+}
+
+.donate-title{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+
+.number{
+    margin: 20px;
+    display: flex;
+    gap :30px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+}
+
+.TK{
+    border: 1px solid black;
+    padding: 5px 10px;
+    background-color: rgb(200, 171, 171);
+
+}
